@@ -1,34 +1,48 @@
-# Ansh Raj
+# Hi, I'm Ansh Raj
 
-Building open-source software with a focus on simplicity, privacy, and developer experience.
+I'm an open-source developer from India building **Nexment**, a long-term ecosystem focused on making software development simpler, faster, and more consistent.
 
-Current work is centered around **Nexment** — an ecosystem of developer tools, APIs, CLIs, and web applications designed to solve practical problems for developers.
+## Current Focus
 
-## Philosophy
+* Building **Nexment CLI**
+* Learning Rust through real-world projects
+* Preparing for **Nexment OS**
 
-Software should be useful before it is impressive.
+## Tech Stack
 
-I enjoy building projects that are lightweight, maintainable, and solve real problems without unnecessary complexity. Most of my work is experimental, open source, and driven by curiosity rather than trends.
-
-## Primary Technologies
+### Comfortable
 
 * Python
 * JavaScript
-* Git
-* Linux
-* Firebase
-* Vanilla CSS
+* HTML & CSS
+* React
+* Next.js
+* Node.js
+* Express.js
 
-I also work with React, Next.js, Node.js, and Tailwind CSS when the project requires them.
+### Familiar
 
-## Featured Project
+* TypeScript
+* Tailwind CSS
+
+### Currently Learning
+
+* Rust
+* C
+
+## Current Project
 
 ### Nexment
 
-An open-source ecosystem for developer tools.
+An open-source ecosystem beginning with an intent-based developer CLI.
 
-The goal is to build software that developers can rely on as part of their everyday workflow while keeping privacy, simplicity, and transparency at the core.
+The long-term vision includes operating systems, developer tools, programming languages, compilers, editors, and other foundational technologies built around performance, simplicity, and privacy.
 
-## Open Source
+## Philosophy
 
-Most projects are released publicly and developed in the open. Contributions, suggestions, and constructive feedback are always welcome.
+> Build things that simplify software development.
+
+## Find Me
+
+* GitHub
+* Nexment
