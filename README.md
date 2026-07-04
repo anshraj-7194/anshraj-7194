@@ -6,13 +6,14 @@ I'm an open-source developer from India building **Nexment**, a long-term ecosys
 
 * Building **Nexment CLI**
 * Learning Rust through real-world projects
-* Preparing for **Nexment OS**
+* Preparing for **Aven OS**
 
 ## Tech Stack
 
 ### Comfortable
 
 * Python
+* Rust
 * JavaScript
 * HTML & CSS
 * React
@@ -27,7 +28,6 @@ I'm an open-source developer from India building **Nexment**, a long-term ecosys
 
 ### Currently Learning
 
-* Rust
 * C
 
 ## Current Project
