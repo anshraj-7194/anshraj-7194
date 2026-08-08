@@ -1,110 +1,81 @@
 # Hi, I'm Ansh Raj 👋
 
-I'm a student and open-source developer from India with a passion for systems programming, developer tools, and software engineering.
+Student. Open-source developer. Curious human who likes understanding how computers actually work — not just how to use them.
 
-I'm the creator of **Nexment**, a long-term open-source ecosystem dedicated to building software that is fast, simple, and privacy-first. I enjoy learning by building real projects and constantly exploring how computers work beneath the surface.
+I learn mostly by building things, breaking them, figuring out why they broke, and then rebuilding them better.
 
 ---
 
 ## About Me
 
-- 🚀 Founder of **Nexment**
-- 💻 Building developer tools from scratch
-- 🦀 Learning Rust through real-world projects
-- ⚙️ Exploring systems programming and operating system development
-- 📚 Learning by building instead of following tutorials
-- 🌱 Interested in compilers, programming languages, operating systems, and developer experience
+I'm a student from India interested in programming, systems, and open-source software.
+
+My interests are gradually moving toward the lower layers of computing — where software meets the machine.
+
+- 🎓 Student & lifelong learner
+- 🦀 Learning Rust and systems programming
+- ⚙️ Interested in operating systems, compilers, and computer architecture
+- 💻 Building developer tools and open-source software
+- 🧠 I learn best by building rather than just following tutorials
+
+### Technologies
+
+**Languages:** Python, Rust, JavaScrit, C(Intermediate) 
+
+**Web:** React, Next.js, Node.js, Express, Vanilla CSS
+
+**Tools:** Git, GitHub, Linux, Sublime Text, Zenith(Its my Personal CLI)
 
 ---
 
-## Tech Stack
+## What I'm Interested In
 
-**Languages**  
-Python • Rust • C • JavaScript
+I'm especially interested in software that sits close to the foundations of computing.
 
-**Frontend**  
-HTML • CSS • React • Next.js
+That includes operating systems, programming languages, compilers, developer infrastructure, runtimes, filesystems, and other systems software.
 
-**Backend**  
-Node.js • Express.js
-
-**Tools**  
-Git • GitHub
+I like understanding what happens underneath an abstraction — how code becomes machine instructions, how an operating system manages hardware, and how different pieces of software come together to form a complete system.
 
 ---
 
-## Current Focus
+## Nexment
 
-I'm currently focused on:
+**Nexment** is my long-term open-source project focused on building modern foundational software.
 
-- Building **Nexment CLI**
-- Improving my Rust and systems programming skills
-- Designing software with a strong focus on performance and simplicity
-- Growing the Nexment open-source ecosystem
+The goal isn't to create dozens of unrelated tools. It's to build a smaller number of useful projects properly, with a focus on performance, simplicity, privacy, and consistency.
 
----
+The long-term vision explores areas such as programming languages, compiler technology, operating systems, rendering technology, browsers, package management, and developer infrastructure.
 
-## About Nexment
+### Nexment Principles
 
-**Nexment** is an open-source ecosystem focused on creating modern software that developers enjoy using.
+- ⚡ Performance over unnecessary complexity
+- 🎯 Simple and focused software
+- 🔒 Privacy by default
+- 🌍 Open source
+- 🧱 Build for the long term
 
-The goal isn't to build many projects—it's to build a small number of high-quality projects that solve real problems through thoughtful design and a consistent user experience.
-
-The journey begins with **Nexment CLI**, an intent-based command-line tool designed to simplify development workflows.
-
-As the ecosystem grows, every project will share the same core philosophy: software should be fast, intuitive, reliable, and respectful of its users.
-
-### Core Principles
-
-- ⚡ Performance
-- 🎯 Simplicity
-- 🔒 Privacy
-- 🌍 Open Source
-- 📦 Consistency
-- 🛠️ Developer Experience
+> "Good software isn't about adding more. It's about removing what doesn't matter."
 
 ---
 
-## Philosophy
+## How I Build
 
-> "Great software isn't created by adding more features. It's created by removing unnecessary complexity."
+My usual workflow is pretty simple:
 
-I believe software should:
+**Build → Break → Understand → Improve**
 
-- Be simple to understand
-- Feel fast and responsive
-- Respect user privacy
-- Remain maintainable for years
-- Solve real problems instead of creating new ones
+I don't expect every experiment to become a successful project. Sometimes the best result of building something is learning why the original idea wasn't as good as it sounded.
+
+That's part of the fun.
 
 ---
 
-## Goals
-
-My long-term goals include:
-
-- Building high-quality developer tools
-- Mastering systems programming
-- Creating software that lasts
-- Contributing meaningful open-source software
-- Building technology that developers genuinely enjoy using
-
----
-
-## GitHub Stats
-
-- 📦 Open Source Projects
-- 🚀 Continuous Learning
-- 💡 Building in Public
-
----
-
-## Connect
+## Find Me
 
 - **GitHub:** https://github.com/anshraj-7194
-- **Nexment Organization:** https://github.com/Nexment-Official
+- **Nexment:** https://github.com/Nexment-Official
 - **Website:** https://nexment.in
 
----
+Thanks for scrolling this far.
 
-Thanks for stopping by! Feel free to explore my repositories and follow my journey as I continue building **Nexment**.
+Now go check out the code — it's more interesting than my bio. 😄
