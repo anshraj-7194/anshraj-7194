@@ -1,81 +1,39 @@
-# Hi, I'm Ansh Raj 👋
+<div align="center">
 
-Student. Open-source developer. Curious human who likes understanding how computers actually work — not just how to use them.
+# Hey, I'm Ansh 👋
+**Student · Developer · Builder**
 
-I learn mostly by building things, breaking them, figuring out why they broke, and then rebuilding them better.
+I like figuring out how things work under the hood — then building my own version, better.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anshraj-7194)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/founderNexment)
 
-## About Me
-
-I'm a student from India interested in programming, systems, and open-source software.
-
-My interests are gradually moving toward the lower layers of computing — where software meets the machine.
-
-- 🎓 Student & lifelong learner
-- 🦀 Learning Rust and systems programming
-- ⚙️ Interested in operating systems, compilers, and computer architecture
-- 💻 Building developer tools and open-source software
-- 🧠 I learn best by building rather than just following tutorials
-
-### Technologies
-
-**Languages:** Python, Rust, JavaScrit, C(Intermediate) 
-
-**Web:** React, Next.js, Node.js, Express, Vanilla CSS
-
-**Tools:** Git, GitHub, Linux, Sublime Text, Zenith(Its my Personal CLI)
+</div>
 
 ---
 
-## What I'm Interested In
+### About Me
 
-I'm especially interested in software that sits close to the foundations of computing.
+I'm a student and developer who enjoys systems programming, developer tools, and open source. I care more about understanding *why* something works than just using it — so most of what I build starts as a way to learn something new.
 
-That includes operating systems, programming languages, compilers, developer infrastructure, runtimes, filesystems, and other systems software.
+I mainly work in **Rust** and **Python**, picking up web technologies when a project calls for them.
 
-I like understanding what happens underneath an abstraction — how code becomes machine instructions, how an operating system manages hardware, and how different pieces of software come together to form a complete system.
+### What I'm Building
 
----
+My main project is **[Nexment](https://github.com/Nexment-Official)** — an open-source developer ecosystem I'm building solo, focused on tools, templates, docs, and a CLI, built around performance, simplicity, and privacy.
 
-## Nexment
+### Currently Learning
 
-**Nexment** is my long-term open-source project focused on building modern foundational software.
+Rust internals · systems programming · compilers & runtimes · operating systems · software architecture
 
-The goal isn't to create dozens of unrelated tools. It's to build a smaller number of useful projects properly, with a focus on performance, simplicity, privacy, and consistency.
+### How I Work
 
-The long-term vision explores areas such as programming languages, compiler technology, operating systems, rendering technology, browsers, package management, and developer infrastructure.
-
-### Nexment Principles
-
-- ⚡ Performance over unnecessary complexity
-- 🎯 Simple and focused software
-- 🔒 Privacy by default
-- 🌍 Open source
-- 🧱 Build for the long term
-
-> "Good software isn't about adding more. It's about removing what doesn't matter."
+Start small, build something real, and let it grow. I'd rather ship something useful than something trendy.
 
 ---
 
-## How I Build
+<div align="center">
 
-My usual workflow is pretty simple:
+Thanks for stopping by — feel free to look around.
 
-**Build → Break → Understand → Improve**
-
-I don't expect every experiment to become a successful project. Sometimes the best result of building something is learning why the original idea wasn't as good as it sounded.
-
-That's part of the fun.
-
----
-
-## Find Me
-
-- **GitHub:** https://github.com/anshraj-7194
-- **Nexment:** https://github.com/Nexment-Official
-- **Website:** https://nexment.in
-
-Thanks for scrolling this far.
-
-Now go check out the code — it's more interesting than my bio. 😄
+</div>
