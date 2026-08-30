@@ -1,39 +1,62 @@
 <div align="center">
 
 # Hey, I'm Ansh 👋
-**Student · Developer · Builder**
 
-I like figuring out how things work under the hood — then building my own version, better.
+### Student • Developer • Builder
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anshraj-7194)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/founderNexment)
+I like computers, I love building things, and I'm curious about how everything works underneath.
 
 </div>
 
 ---
 
-### About Me
+## About Me
 
-I'm a student and developer who enjoys systems programming, developer tools, and open source. I care more about understanding *why* something works than just using it — so most of what I build starts as a way to learn something new.
+I'm a student who spends a lot of my free time coding and experimenting with ideas.
 
-I mainly work in **Rust** and **Python**, picking up web technologies when a project calls for them.
+I enjoy building things from scratch, especially when they involve systems, programming languages, developer tools, or anything that lets me understand how computers actually work.
 
-### What I'm Building
+I'm not interested in building things just for the sake of having a project. I like projects that teach me something, solve a real problem, or are simply interesting enough that I want to keep working on them.
 
-My main project is **[Nexment](https://github.com/Nexment-Official)** — an open-source developer ecosystem I'm building solo, focused on tools, templates, docs, and a CLI, built around performance, simplicity, and privacy.
+I tend to think long-term. Some ideas might take months or even years, and that's completely fine. I'd rather build something properly than rush it just to say it's finished.
 
-### Currently Learning
+---
 
-Rust internals · systems programming · compilers & runtimes · operating systems · software architecture
+## What I Like
 
-### How I Work
+- Rust and systems programming
+- Understanding how things work internally
+- Building developer tools
+- Operating systems and low-level software
+- Web development
+- Experimenting with unusual ideas
+- Open source
+- Learning by building
 
-Start small, build something real, and let it grow. I'd rather ship something useful than something trendy.
+---
+
+## How I Work
+
+I like keeping things simple.
+
+I don't believe every problem needs a massive architecture, a dozen dependencies, or the latest trend. If something can be made simpler without making it worse, that's usually the direction I'll take.
+
+I also don't mind starting over.
+
+Sometimes an idea changes, architecture gets thrown away, or an entire project needs to be rebuilt. That's part of building things.
+
+---
+
+## Currently
+
+Learning, experimenting, breaking things, fixing them, and building whatever seems interesting.
+
+There is always something new to explore.
 
 ---
 
 <div align="center">
 
-Thanks for stopping by — feel free to look around.
+### Build. Break. Learn. Repeat.
 
 </div>
